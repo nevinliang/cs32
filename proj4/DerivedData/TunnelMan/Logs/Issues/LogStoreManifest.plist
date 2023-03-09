@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>51892582-5EB0-4392-A11A-F7D8A6C0CDCE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.tool</string>
+			<key>fileName</key>
+			<string>51892582-5EB0-4392-A11A-F7D8A6C0CDCE.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>signature</key>
+			<string>TunnelMan-awpngaslicujmueuglqwyensiufj</string>
+			<key>timeStartedRecording</key>
+			<real>619130851.18317199</real>
+			<key>timeStoppedRecording</key>
+			<real>619130852.002303</real>
+			<key>title</key>
+			<string>Build target TunnelMan</string>
+			<key>uniqueIdentifier</key>
+			<string>51892582-5EB0-4392-A11A-F7D8A6C0CDCE</string>
+		</dict>
+		<key>9484BF57-FE09-41A6-8C4C-024B628E41F8</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.tool</string>
+			<key>fileName</key>
+			<string>9484BF57-FE09-41A6-8C4C-024B628E41F8.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>signature</key>
+			<string>TunnelMan-buszjwyomewnnuerokuhnadeogzw</string>
+			<key>timeStartedRecording</key>
+			<real>619767694.29903197</real>
+			<key>timeStoppedRecording</key>
+			<real>619767694.29929996</real>
+			<key>title</key>
+			<string>Build target TunnelMan</string>
+			<key>uniqueIdentifier</key>
+			<string>9484BF57-FE09-41A6-8C4C-024B628E41F8</string>
+		</dict>
+	</dict>
+	<key>preserveOldLogs</key>
+	<true/>
+</dict>
+</plist>
